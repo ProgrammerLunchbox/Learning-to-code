@@ -1,5 +1,5 @@
 import random
-
+#If you have any helpful edits please go ahead and reccomend them!
 temperature = int(input("What's the weather like in you're area?"))
 username = input("What is your name?")
 fahrenheit = temperature
